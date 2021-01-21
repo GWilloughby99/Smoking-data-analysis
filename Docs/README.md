@@ -7,5 +7,7 @@ NHS England published a dataset which can be accessed [here](https://digital.nhs
 1) Admissions to hosptial attributable to smoking in 2019/20 reached a record **506,100**.
 2) Latest figure was **40,000** greater than a decade ago.
 3) Cancer and respiratory disease admisisons accounted for **60%** of total admisisons.
+4) Both Bradford CCGs were top of pharmacotherapy rates.
+5) Admissions continue rise despite tobacco increasing in price.
 
-To be continued...
+To read the article, [click here](https://gwilloughby99.github.io/)
