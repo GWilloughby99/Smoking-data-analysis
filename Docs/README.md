@@ -10,4 +10,4 @@ NHS England published a dataset which can be accessed [here](https://digital.nhs
 4) Both Bradford CCGs were top of pharmacotherapy rates.
 5) Admissions continue rise despite tobacco increasing in price.
 
-To read the article, [click here](https://gwilloughby99.github.io/)
+To read the article, [click here](https://gwilloughby99.github.io/2021-02-03-smoking-analysis/)
